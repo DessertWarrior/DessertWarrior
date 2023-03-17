@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there and welcome to my personal README file!👋
 
 <!--
 **DessertWarrior/DessertWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Genglin Yu, and I'm an full stack software engineer.
 
-Here are some ideas to get you started:
+I have a 2 year college degree on computer science and I've been working on multiple project such as pixel art maker, digging gold game in 8 bit pixel art form using c++. As a result, I have a wide range of knowledge on multiple languages such as c++, java, python, javascript, html, css, and Linux
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
