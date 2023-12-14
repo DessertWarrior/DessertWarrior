@@ -52,9 +52,28 @@ Here are some of the projects I'm proud of:
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-6610f2?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JWT](https://img.shields.io/badge/JWT-0f0330?style=for-the-badge&logo=JSONWebTokens&logoColor=E06AE4)](https://jwt.io/)
 
+### Project 3: Java Laundry Attendant
+- Description: Laundry Attendant is a Java-based application developed for the CMSC 495 final project. This application allows users to manage their laundry services efficiently. Users can access their accounts, register new ones, and purchase laundry tickets, which are displayed on the user dashboard. The purchased tickets are sent to the server and the admin's dashboard for processing.
+- GitHub Repository: https://github.com/CMSC495-laundry-service/laundry-attendant
+- Technologies Used:
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Bcrypt](https://img.shields.io/badge/Bcrypt-FA7343?style=for-the-badge)](https://github.com/kelektiv/node.bcrypt.js#readme)
+[![Dotenv](https://img.shields.io/badge/Dotenv-323330?style=for-the-badge&logo=Dotenv&logoColor=white)](https://github.com/motdotla/dotenv#readme)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JUnit](https://img.shields.io/badge/Junit-%23FA0F00.svg?style=for-the-badge)](https://junit.org/junit5/)
+[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://maven.apache.org/)
+[![HTTPClient](https://img.shields.io/badge/HTTPClient-white?style=for-the-badge)](https://mvnrepository.com/artifact/org.apache.httpcomponents.client5/httpclient5)
+
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+
 ### Current Project/Work schedules
 
-I'm finishing my degree which would be on dec 2023. I'm currently studying nextJS, threeJS.I'm also finishing my anime art class which would also be dec 2023. 
+I'm currently studying nextJS, threeJS.I'm also finishing my anime art class which would also be dec 2023. 
 I'm planning to start working on few new javascript project to deepen my understanding and also applies new techs in the future. 
 
 
